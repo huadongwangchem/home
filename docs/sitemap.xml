@@ -18,12 +18,12 @@
   </url>
   
   <url>
-    <loc>https://huadongwangchem.github.io/home/</loc>
+    <loc>https://huadongwangchem.github.io/home/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://huadongwangchem.github.io/home/talk/example/</loc>
+    <loc>https://huadongwangchem.github.io/home/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
@@ -48,47 +48,17 @@
   </url>
   
   <url>
-    <loc>https://huadongwangchem.github.io/home/publication-type/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://huadongwangchem.github.io/home/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://huadongwangchem.github.io/home/authors/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://huadongwangchem.github.io/home/author/huadong-wang/</loc>
+    <loc>https://huadongwangchem.github.io/home/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://huadongwangchem.github.io/home/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://huadongwangchem.github.io/home/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://huadongwangchem.github.io/home/tag/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://huadongwangchem.github.io/home/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://huadongwangchem.github.io/home/post/jupyter/</loc>
+    <loc>https://huadongwangchem.github.io/home/author/huadong-wang/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -128,6 +98,11 @@
   </url>
   
   <url>
+    <loc>https://huadongwangchem.github.io/home/tags/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://huadongwangchem.github.io/home/tag/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
@@ -164,27 +139,42 @@
   
   <url>
     <loc>https://huadongwangchem.github.io/home/publication-type/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://huadongwangchem.github.io/home/author/dr.-zhenxia-chen/</loc>
   </url>
   
   <url>
     <loc>https://huadongwangchem.github.io/home/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://huadongwangchem.github.io/home/author/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>https://huadongwangchem.github.io/home/author/prof.-huadong-wang/</loc>
   </url>
   
   <url>
-    <loc>https://huadongwangchem.github.io/home/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>https://huadongwangchem.github.io/home/author/prof.-linhong-weng/</loc>
   </url>
   
   <url>
-    <loc>https://huadongwangchem.github.io/home/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>https://huadongwangchem.github.io/home/author/prof.-zhen-hua-li/</loc>
+  </url>
+  
+  <url>
+    <loc>https://huadongwangchem.github.io/home/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://huadongwangchem.github.io/home/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://huadongwangchem.github.io/home/author/zhenpin-lu/</loc>
+  </url>
+  
+  <url>
+    <loc>https://huadongwangchem.github.io/home/author/zhonghua-cheng/</loc>
   </url>
   
 </urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prof. Linhong Weng | Laboratory of Main Group Chemistry</title>
+    <link>https://huadongwangchem.github.io/home/author/prof.-linhong-weng/</link>
+      <atom:link href="https://huadongwangchem.github.io/home/author/prof.-linhong-weng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Prof. Linhong Weng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>All Rights Reserved@Wang&#39;lab</copyright>
+    <image>
+      <url>https://huadongwangchem.github.io/home/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Prof. Linhong Weng</title>
+      <link>https://huadongwangchem.github.io/home/author/prof.-linhong-weng/</link>
+    </image>
+    
+    <item>
+      <title>Heterolytic Cleavage of Dihydrogen by “Frustrated Lewis Pairs” Comprising Bis (2, 4, 6-tris (trifluoromethyl) phenyl) borane and Amines: Stepwise versus Concerted Mechanism</title>
+      <link>https://huadongwangchem.github.io/home/publication/journal-article/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://huadongwangchem.github.io/home/publication/journal-article/</guid>
+      <description>&lt;p&gt;#Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
