@@ -39,10 +39,10 @@ education:
     institution: University of Münster
     year: 2009
   - course: Associate Researcher
-    institution: University of Münster
+    institution: Fudan University
     year: 2009 - 2014
   - course: Professor
-    institution: University of Münster
+    institution: Fudan University
     year: 2015 - now     
 
 # Social/Academic Networking

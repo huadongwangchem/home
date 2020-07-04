@@ -2,7 +2,7 @@
 
 # When updating the version of an asset below, please also update the corresponding SRI.
 # How to update the SRI for an entry:
-#   echo -n "sha512-" && curl --silent "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML" | openssl dgst -sha512 -binary | openssl enc -base64 -A
+#   echo -n "sha512-" && curl --silent "/local/cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML" | openssl dgst -sha512 -binary | openssl enc -base64 -A
 # Or, the SRI for the appropriate asset can be copied from https://cdnjs.com/ .
 
 # JavaScript
