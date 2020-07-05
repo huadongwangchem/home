@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yue-jian Lin | Laboratory of Main Group Chemistry</title>
+    <link>https://huadongwangchem.github.io/home/author/yue-jian-lin/</link>
+      <atom:link href="https://huadongwangchem.github.io/home/author/yue-jian-lin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yue-jian Lin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>All Rights Reserved@Wang&#39;lab</copyright><lastBuildDate>Tue, 20 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://huadongwangchem.github.io/home/images/icon_hu1258ceff76ed0b4121525d26be1a6bef_15855_512x512_fill_lanczos_center_2.png</url>
+      <title>Yue-jian Lin</title>
+      <link>https://huadongwangchem.github.io/home/author/yue-jian-lin/</link>
+    </image>
+    
+    <item>
+      <title>Synthesis of 2-(lutidinyl)organoboranes and their reactivities against dihydrogen and pinacol borane</title>
+      <link>https://huadongwangchem.github.io/home/publication/journal-article/2016-1/</link>
+      <pubDate>Tue, 20 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://huadongwangchem.github.io/home/publication/journal-article/2016-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis and Reactivity of the CO2 Adducts of Amine/Bis(2,4,6-tris(trifluoromethyl)phenyl)borane Pairs</title>
+      <link>https://huadongwangchem.github.io/home/publication/journal-article/2013-2/</link>
+      <pubDate>Tue, 12 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://huadongwangchem.github.io/home/publication/journal-article/2013-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
